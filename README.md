@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aqsa-bano" target="_blank">
+<a href="https://www.linkedin.com/in/aqsa-bano" target="_blank">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" 
        alt="LinkedIn" 
        width="30" 
