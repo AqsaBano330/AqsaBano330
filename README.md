@@ -3,7 +3,8 @@
 
 
 <img align="right" alt="coding" width="400" src="https://images.ecency.com/p/2dk2RRM2dZ8gPSQXD26P2AUtxtYwVGUdiiG3qpApvBg7Qamp3XmaTzSE7nVfYg6mA9sSnVDRycg7qCM7T17XRt1iFJZCLqh4Xy91tqDhgKkQKYD8giotuo54Sd2B2ydS4z9AewT4CoxqmQ35gCU2kcckBgfzkHTfPyrUJ1zRKj.png?format=match&mode=fit">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsabano330&label=Profile%20views&color=0e75b6&style=flat" alt="aqsabano330" /> </p>
+
+
 
 
 
@@ -13,7 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aqsa bano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqsa bano" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aqsa-bano" target="_blank">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" 
+       alt="LinkedIn" 
+       width="30" 
+       height="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
