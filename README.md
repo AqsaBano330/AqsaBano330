@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aqsa Bano</h1>
 <h3 align="center">A professional Flutter Developer.</h3>
-<img **align="center"** alt="coding" width="400" src="https://images.ecency.com/0x0/https://images.ecency.com/DQmNjTxAkyNak2QCBXiPPoadm2KUi6YgMACSMHPj4L9okAJ/dailylifeonapc_watermarked_ezgif.com_gif_maker.gif">
 
-<img align="right" alt="coding" width="400" src="https://images.ecency.com/0x0/https://images.ecency.com/DQmNjTxAkyNak2QCBXiPPoadm2KUi6YgMACSMHPj4L9okAJ/dailylifeonapc_watermarked_ezgif.com_gif_maker.gif">
+
+<img align="right" alt="coding" width="400" src="https://images.ecency.com/p/2dk2RRM2dZ8gPSQXD26P2AUtxtYwVGUdiiG3qpApvBg7Qamp3XmaTzSE7nVfYg6mA9sSnVDRycg7qCM7T17XRt1iFJZCLqh4Xy91tqDhgKkQKYD8giotuo54Sd2B2ydS4z9AewT4CoxqmQ35gCU2kcckBgfzkHTfPyrUJ1zRKj.png?format=match&mode=fit">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsabano330&label=Profile%20views&color=0e75b6&style=flat" alt="aqsabano330" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsabano330" alt="aqsabano330" /></a> </p>
+
 
 - 💬 Ask me about **Flutter, Dart, Firebase, API**
 
